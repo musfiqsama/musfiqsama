@@ -36,16 +36,16 @@ clean design, performance, and usability.
 ## ✦ Experience
 
 - 💻 Built multiple web applications  
-- 🎮 Developed **Echo Loop** (game project)  
-- 🌐 Created a premium portfolio website  
+- 🎮 Developed **Echo Loop**  
+- 🌐 Created premium portfolio website  
 - ⚙️ Focused on clean UI & performance  
-- 🧩 Practicing problem solving consistently  
+- 🧩 Practicing problem solving  
 
 ---
 
 ## ✦ Current Focus
 
-- 🚀 Building real-world applications  
+- 🚀 Building real-world apps  
 - 🧠 Improving problem solving  
 - 🏗 Learning system design  
 - ✨ Creating polished projects  
@@ -72,10 +72,14 @@ clean design, performance, and usability.
 
 ---
 
-## ✦ Contribution
+## ✦ Dev Bot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
+  <img src="YOUR_ROBOT_IMAGE_LINK" width="280" />
+</p>
+
+<p align="center">
+  <i>Code. Refine. Repeat.</i>
 </p>
 
 ---
