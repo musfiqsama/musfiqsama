@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Banner (later add) -->
-  <!-- <img src="YOUR_BANNER_IMAGE_LINK" width="100%" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A14A,100:0D0D0D&height=200&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Musfiqur Rahman Sama</h1>
@@ -10,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1200&color=C9A14A&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Building+real-world+software;Clean+UI+%26+Performance+focused;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1200&color=C9A14A&center=true&vCenter=true&width=750&lines=Building+real-world+software;Clean+UI+%26+Performance+focused;Always+learning+and+improving" />
 </p>
 
 <p align="center">
@@ -31,36 +30,66 @@
 
 ---
 
-## 🧠 About Me
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-I build **practical, real-world software** focused on clean design,  
-performance, and smooth user experience.
-
-- Full-Stack Development  
-- Problem Solving (DSA)  
-- UI/UX Focus  
-- Continuous Learning  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&pause=1200&color=C9A14A&center=true&vCenter=true&width=700&lines=About+my+journey;What+I+build;Where+I+am+growing" />
+</p>
 
 ---
 
-## 💼 Experience
+## ✦ About Me
 
-- Built multiple web applications  
-- Developed **Echo Loop (game project)**  
-- Created a **premium portfolio website**  
-- Focused on performance and clean UI  
-- Practicing problem solving regularly  
+<p align="center">
+  I build <b>practical, real-world software</b> with a strong focus on  
+  <b>clean design</b>, <b>performance</b>, and <b>smooth user experience</b>.
+</p>
+
+<p align="center">
+  Turning ideas into polished and usable digital products.
+</p>
+
+---
+
+## ✦ Experience
+
+<table align="center">
+  <tr>
+    <td>💻</td>
+    <td><b>Built multiple web applications</b> with modern frontend structure</td>
+  </tr>
+  <tr>
+    <td>🎮</td>
+    <td><b>Developed Echo Loop</b>, a puzzle game with time-loop mechanics</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Created a premium portfolio website</b> with black-gold aesthetics</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><b>Focused on clean code, UI quality, and performance</b></td>
+  </tr>
+  <tr>
+    <td>🧩</td>
+    <td><b>Practicing problem solving regularly</b> to sharpen logic</td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Current Focus
+## ✦ Current Focus
 
-- Building real-world applications  
-- Improving problem-solving consistency  
-- Learning system design  
-- Creating polished projects  
+<p align="center">
+  🚀 Building polished real-world applications <br/>
+  🧠 Improving problem-solving consistency <br/>
+  🏗 Learning better system design <br/>
+  ✨ Creating projects with strong usability and presentation
+</p>
 
 ---
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## ⚙️ Tech Stack
 
@@ -93,7 +122,7 @@ performance, and smooth user experience.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
 </p>
 
 ---
