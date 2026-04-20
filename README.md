@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/musfiqsama?label=Followers&style=flat&color=C9A14A" alt="followers" />
-  <img src="https://img.shields.io/github/stars/musfiqsama?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=C9A14A" alt="stars" />
 </p>
 
 <p align="center">
@@ -40,7 +39,7 @@ I enjoy transforming ideas into polished digital experiences and continuously im
 
 - 💻 Built multiple web applications  
 - 🎮 Developed **Echo Loop (game project)**  
-- 🌐 Created premium portfolio website  
+- 🌐 Created a premium portfolio website  
 - ⚙️ Focused on clean UI & performance  
 - 🧩 Practicing problem solving  
 - 🚀 Exploring real-world product building  
@@ -78,26 +77,26 @@ I enjoy transforming ideas into polished digital experiences and continuously im
 ### 🎮 Echo Loop
 A game project built around engaging mechanics and immersive interaction.
 
-- ⚙️ Tech: C / C++ / Game Logic
-- 🎯 Focus: Gameplay, interaction, problem-solving
-- 📂 Repo: `Add your repository link here`
+- ⚙️ Tech: C / C++ / Game Logic  
+- 🎯 Focus: Gameplay, interaction, problem-solving  
+- 📂 Repo: [Add repository link](#)
 
 ---
 
 ### 🌐 Portfolio Website
 A premium personal portfolio website showcasing my work, skills, and developer identity.
 
-- ⚙️ Tech: HTML, CSS, JavaScript
-- 🌍 Live: [Visit Portfolio](https://musfiqsama.netlify.app/)
-- 📂 Repo: `Add your repository link here`
+- ⚙️ Tech: HTML, CSS, JavaScript  
+- 🌍 Live: [Visit Portfolio](https://musfiqsama.netlify.app/)  
+- 📂 Repo: [Add repository link](#)
 
 ---
 
 ### 💻 Web Applications
 A collection of practical frontend and full-stack applications focused on usability and performance.
 
-- ⚙️ Tech: React, Node.js, Express, MongoDB
-- 📂 Repo: `Add your repository link here`
+- ⚙️ Tech: React, Node.js, Express, MongoDB  
+- 📂 Repo: [Add repository link](#)
 
 ---
 
@@ -108,7 +107,7 @@ A collection of practical frontend and full-stack applications focused on usabil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=musfiqsama&theme=tokyonight&hide_border=true" alt="github streak" />
+  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true" alt="github streak" />
 </p>
 
 <p align="center">
