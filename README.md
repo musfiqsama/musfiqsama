@@ -71,14 +71,10 @@ I build **practical, real-world software** focused on clean design, performance,
 
 ---
 
-## ✦ Skyline Mode 🏙️
+## ✦ Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d skyline" />
-</p>
-
-<p align="center">
-  <i>Progress, built like a city.</i>
+  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
