@@ -1,5 +1,3 @@
-<!-- PREMIUM PROFILE README -->
-
 <h1 align="center">Musfiqur Rahman Sama</h1>
 
 <p align="center">
@@ -11,20 +9,24 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://musfiqsama.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:musfiqsama123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://github.com/musfiqsama">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🧾 Profile Snapshot
+## 🧾 Developer Snapshot
 
 ```yaml
 Name: Musfiqur Rahman Sama
