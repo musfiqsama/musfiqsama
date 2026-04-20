@@ -1,49 +1,20 @@
-# 👋 Hi, I'm Musfiqur Rahman Sama
+<!-- HEADER -->
+<h1 align="center">Musfiqur Rahman Sama</h1>
+<p align="center">
+  <b>Full-Stack Developer • CSE Student • Problem Solver</b>
+</p>
 
-🚀 Full-Stack Developer | CSE Student  
-💡 I build practical software that solves real-world problems.
-
----
-
-## 🌐 Portfolio
-https://musfiqsama.netlify.app/
-
----
-
-## 🧠 What I Do
-- Build full-stack web applications  
-- Solve real-world problems  
-- Focus on clean UI & performance  
-- Mentor and help others  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1000&color=C9A14A&center=true&vCenter=true&width=800&lines=Building+real-world+software;Crafting+clean+and+efficient+systems;Focused+on+performance+and+design" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-- HTML, CSS, JavaScript  
-- React  
-- Node.js  
-- Git & GitHub  
+## 🧾 Profile Snapshot
 
----
-
-## 🚀 Featured Projects
-🔹 Echo Loop Game  
-🔹 Portfolio Website  
-🔹 More coming soon...
-
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqsama&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/musfiqsama  
-- Email: your@email.com  
-
----
-
-⭐ Always building. Always improving.
+```yaml
+Name: Musfiqur Rahman Sama
+Role: Full-Stack Developer
+Education: CSE Student
+Focus: Web Development + Problem Solving
+Portfolio: musfiqsama.netlify.app
