@@ -37,7 +37,7 @@ I enjoy turning ideas into polished digital products and continuously improving 
 ## ✦ Experience
 
 * 💻 Built multiple web applications
-* 🎮 Developed **Echo Loop**
+* 🎮 Developed Echo Loop
 * 🌐 Created a premium portfolio website
 * ⚙️ Focused on clean UI and performance
 * 🧩 Practicing problem solving
@@ -66,38 +66,6 @@ I enjoy turning ideas into polished digital products and continuously improving 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman,netlify,vercel,git,github" />
 </p>
-
----
-
-## ✦ Featured Projects
-
-### 🎮 Echo Loop
-
-Game project with interactive mechanics
-
-* ⚙️ C / C++
-* 🎯 Gameplay & logic
-* ✨ Time-loop based concept
-
----
-
-### 🌐 Portfolio Website
-
-Clean and modern personal portfolio
-
-* ⚙️ HTML, CSS, JS
-* 🎯 UI & performance
-* ✨ Responsive design
-
----
-
-### 💻 Web Applications
-
-Frontend and full-stack projects
-
-* ⚙️ React, Node, MongoDB
-* 🎯 Practical real-world apps
-* ✨ Clean architecture
 
 ---
 
