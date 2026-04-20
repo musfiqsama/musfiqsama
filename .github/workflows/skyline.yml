@@ -8,18 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
-      - name: Generate 3D contribution
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: musfiqsama
 
-      - name: Commit generated files
+      - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "generated 3d contribution files"
+          commit_message: "generate skyline"
           file_pattern: "profile-3d-contrib/*.svg"
