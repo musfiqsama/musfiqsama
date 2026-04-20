@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Banner (optional later) -->
+  <!-- Banner (later add) -->
   <!-- <img src="YOUR_BANNER_IMAGE_LINK" width="100%" /> -->
 </p>
 
@@ -70,7 +70,7 @@ performance, and smooth user experience.
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=C9A14A&icon_color=C9A14A" />
@@ -93,7 +93,7 @@ performance, and smooth user experience.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
