@@ -71,15 +71,10 @@ I build **practical, real-world software** focused on clean design, performance,
 
 ---
 
-## ✦ Game Zone 🎮
+## ✦ Game Activity 🎮
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <b>Pixel flow in motion</b><br/>
-  <i>Designing code like game levels.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqsama&theme=tokyo-night&hide_border=true&color=C9A14A&line=C9A14A" />
 </p>
 
 ---
