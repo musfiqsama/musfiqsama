@@ -1,3 +1,8 @@
+<p align="center">
+  <!-- Banner (optional later) -->
+  <!-- <img src="YOUR_BANNER_IMAGE_LINK" width="100%" /> -->
+</p>
+
 <h1 align="center">Musfiqur Rahman Sama</h1>
 
 <p align="center">
@@ -26,8 +31,6 @@
 
 ---
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ## 🧠 About Me
 
 I build **practical, real-world software** focused on clean design,  
@@ -46,7 +49,7 @@ performance, and smooth user experience.
 - Developed **Echo Loop (game project)**  
 - Created a **premium portfolio website**  
 - Focused on performance and clean UI  
-- Regularly practicing problem solving  
+- Practicing problem solving regularly  
 
 ---
 
@@ -65,12 +68,16 @@ performance, and smooth user experience.
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,cpp,c&perline=5" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=C9A14A&icon_color=C9A14A" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqsama&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=C9A14A" />
 </p>
 
 ---
@@ -78,7 +85,15 @@ performance, and smooth user experience.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&border_radius=20&ring=C9A14A&fire=C9A14A&currStreakLabel=C9A14A" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -100,7 +115,7 @@ performance, and smooth user experience.
 ---
 
 <p align="center">
-  <i>“Turning ideas into real, usable products.”</i>
+  <i>Turning ideas into real, usable products.</i>
 </p>
 
 <p align="center">
