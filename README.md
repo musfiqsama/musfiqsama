@@ -5,22 +5,22 @@
 <h2 align="center">Full-Stack Developer • CSE Student</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1200&color=C9A14A&center=true&vCenter=true&width=700&lines=Building+real-world+software;Clean+UI+%26+Performance+focused;Turning+ideas+into+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1200&color=C9A14A&center=true&vCenter=true&width=700&lines=Building+real-world+software;Clean+UI+%26+Performance+focused;Turning+ideas+into+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://musfiqsama.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:musfiqsama123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://github.com/musfiqsama">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -28,8 +28,7 @@
 
 ## ✦ About
 
-I build **practical, real-world software** focused on  
-clean design, performance, and usability.
+I build **practical, real-world software** focused on clean design, performance, and usability.
 
 ---
 
@@ -37,15 +36,15 @@ clean design, performance, and usability.
 
 - 💻 Built multiple web applications  
 - 🎮 Developed **Echo Loop**  
-- 🌐 Created premium portfolio website  
-- ⚙️ Focused on clean UI & performance  
-- 🧩 Practicing problem solving  
+- 🌐 Created a premium portfolio website  
+- ⚙️ Focused on clean UI and performance  
+- 🧩 Practicing problem solving consistently  
 
 ---
 
 ## ✦ Current Focus
 
-- 🚀 Building real-world apps  
+- 🚀 Building real-world applications  
 - 🧠 Improving problem solving  
 - 🏗 Learning system design  
 - ✨ Creating polished projects  
@@ -55,7 +54,7 @@ clean design, performance, and usability.
 ## ✦ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,cpp,c&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,cpp,c&perline=5" alt="Tech Stack" />
 </p>
 
 ---
@@ -63,11 +62,11 @@ clean design, performance, and usability.
 ## ✦ GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,7 +74,7 @@ clean design, performance, and usability.
 ## ✦ Dev Bot
 
 <p align="center">
-  <img src="YOUR_ROBOT_IMAGE_LINK" width="280" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="260" alt="dev bot" />
 </p>
 
 <p align="center">
