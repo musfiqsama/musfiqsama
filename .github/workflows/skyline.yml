@@ -5,21 +5,24 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: generate
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@v0.7.1
+        with:
           USERNAME: musfiqsama
 
-      - name: commit
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "generate skyline"
+          commit_message: "update skyline"
           file_pattern: "profile-3d-contrib/*.svg"
