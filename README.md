@@ -5,7 +5,19 @@ Full-Stack Developer • CSE Student • Problem Solver
 </p>
 
 <p align="center">
-Building real-world software • Clean code • Strong UI
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C9A14A&center=true&vCenter=true&width=700&lines=Building+real-world+software;Focused+on+clean+UI+and+performance;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://musfiqsama.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="mailto:musfiqsama123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="https://github.com/musfiqsama">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -40,7 +52,9 @@ I build practical software with focus on performance, design, and usability.
 
 ## ⚙️ Tech Stack
 
-HTML • CSS • JavaScript • React • Node.js • Git • GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,cpp,c" alt="Tech Stack" />
+</p>
 
 ---
 
