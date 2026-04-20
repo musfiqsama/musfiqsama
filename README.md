@@ -1,68 +1,93 @@
 <h1 align="center">Musfiqur Rahman Sama</h1>
 
 <p align="center">
-Full-Stack Developer • CSE Student • Problem Solver
+  <b>Full-Stack Developer • CSE Student • Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=C9A14A&center=true&vCenter=true&width=700&lines=Building+real-world+software;Focused+on+clean+UI+and+performance;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1200&color=C9A14A&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Building+real-world+software;Clean+UI+%26+Performance+focused;Always+learning+new+things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" />
 </p>
 
 <p align="center">
   <a href="https://musfiqsama.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black"/>
   </a>
   <a href="mailto:musfiqsama123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/musfiqsama">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ## 🧠 About Me
 
-I build practical software with focus on performance, design, and usability.
+I build **practical, real-world software** focused on clean design,  
+performance, and smooth user experience.
 
-- Full-Stack Development
-- Problem Solving
-- UI/UX Focus
-- Continuous Learning
+- Full-Stack Development  
+- Problem Solving (DSA)  
+- UI/UX Focus  
+- Continuous Learning  
 
 ---
 
 ## 💼 Experience
 
-- Built multiple web projects  
-- Created Echo Loop (game project)  
-- Designed premium portfolio website  
-- Practicing DSA regularly  
+- Built multiple web applications  
+- Developed **Echo Loop (game project)**  
+- Created a **premium portfolio website**  
+- Focused on performance and clean UI  
+- Regularly practicing problem solving  
 
 ---
 
 ## 🚀 Current Focus
 
 - Building real-world applications  
-- Improving problem solving  
+- Improving problem-solving consistency  
 - Learning system design  
+- Creating polished projects  
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,cpp,c" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,cpp,c&perline=5" />
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-- Echo Loop (Puzzle Game)  
-- Portfolio Website  
-- Web Applications  
+- 🔹 Echo Loop (Puzzle Game)  
+- 🔹 Portfolio Website  
+- 🔹 Web Applications  
 
 ---
 
@@ -70,8 +95,14 @@ I build practical software with focus on performance, design, and usability.
 
 - GitHub: https://github.com/musfiqsama  
 - Email: musfiqsama123@gmail.com  
-- Portfolio: https://musfiqsama.netlify.app/
+- Portfolio: https://musfiqsama.netlify.app  
 
 ---
 
-⭐ Always building. Always improving.
+<p align="center">
+  <i>“Turning ideas into real, usable products.”</i>
+</p>
+
+<p align="center">
+  ⭐ Always building. Always improving.
+</p>
