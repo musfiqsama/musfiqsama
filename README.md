@@ -1,37 +1,63 @@
 <h1 align="center">Musfiqur Rahman Sama</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • CSE Student • Problem Solver</b>
+Full-Stack Developer • CSE Student • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1000&color=C9A14A&center=true&vCenter=true&width=900&lines=Building+real-world+software;Crafting+clean+and+efficient+systems;Focused+on+performance+and+design;Turning+ideas+into+practical+products" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://musfiqsama.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="mailto:musfiqsama123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://github.com/musfiqsama">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+Building real-world software • Clean code • Strong UI
 </p>
 
 ---
 
-## 🧾 Developer Snapshot
+## 🧠 About Me
 
-```yaml
-Name: Musfiqur Rahman Sama
-Role: Full-Stack Developer
-Education: CSE Student
-Focus: Web Development + Problem Solving
-Portfolio: musfiqsama.netlify.app
-Location: Bangladesh
+I build practical software with focus on performance, design, and usability.
+
+- Full-Stack Development
+- Problem Solving
+- UI/UX Focus
+- Continuous Learning
+
+---
+
+## 💼 Experience
+
+- Built multiple web projects  
+- Created Echo Loop (game project)  
+- Designed premium portfolio website  
+- Practicing DSA regularly  
+
+---
+
+## 🚀 Current Focus
+
+- Building real-world applications  
+- Improving problem solving  
+- Learning system design  
+
+---
+
+## ⚙️ Tech Stack
+
+HTML • CSS • JavaScript • React • Node.js • Git • GitHub
+
+---
+
+## 🚀 Projects
+
+- Echo Loop (Puzzle Game)  
+- Portfolio Website  
+- Web Applications  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/musfiqsama  
+- Email: musfiqsama123@gmail.com  
+- Portfolio: https://musfiqsama.netlify.app/
+
+---
+
+⭐ Always building. Always improving.
