@@ -20,9 +20,14 @@
 
 ---
 
-## System Status
+## Startup Sequence
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1200&pause=500&color=C9A14A&center=true&vCenter=true&width=850&lines=%24+booting+developer+profile...;%24+loading+clean+UI+modules...;%24+checking+performance+systems...;%24+syncing+ideas+with+code...;%24+status%3A+ready+to+build" />
+</p>
 
 ```diff
++ Profile initialized
 + System online
 + Building useful things
 + Debugging in progress
@@ -119,7 +124,7 @@
 ---
 
 <p align="center">
-  Build → Improve → Repeat
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=C9A14A&center=true&vCenter=true&width=700&lines=Build+%E2%86%92+Improve+%E2%86%92+Repeat;Still+learning.+Still+shipping." />
 </p>
 
 <p align="center">
