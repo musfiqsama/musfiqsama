@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:C9A14A,100:0D0D0D&height=260&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">⚡ Building Clean, Real-World Software ⚡</h1>
+<h1 align="center">⚡ Developer Dashboard ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=Products+over+projects;Clean+UI+%2B+Performance+focused;Thinking+in+systems+and+scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=Real-time+coding+stats;Performance+focused+developer;Building+products+that+matter" />
 </p>
 
 <p align="center">
@@ -19,70 +19,73 @@
 
 ## 😄 Dev Reality
 
-> “It worked yesterday. I didn’t touch anything.”
+> “I don’t make bugs. I create unexpected features.”
 
 ---
 
-## 🧠 Identity
-
-```diff
-+ Build things that feel smooth
-+ Ship things that actually work
-```
-
-- ⚡ Product-focused  
-- 🧠 System-thinking mindset  
-- 🎯 Clean UI + performance  
-- 🚀 Constant improvement  
-
----
-
-## 🧠 Dev Status
-
-🟢 Coding  
-🟡 Debugging  
-🔴 Rethinking life choices  
-
----
-
-## ⚡ Quick Snapshot
-
-- Code written: a lot  
-- Bugs fixed: some  
-- Bugs created: also some  
-- Coffee level: critical  
-
----
-
-## 💭 Focus Right Now
-
-- Scaling applications  
-- Cleaner backend logic  
-- Better UI performance  
-
----
-
-## 🛠️ Stack
+## 📊 Skill Distribution
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,c&perline=6" />
+  <img src="https://progress-bar.dev/85/?title=Frontend&color=C9A14A" />
+  <img src="https://progress-bar.dev/75/?title=Backend&color=C9A14A" />
+  <img src="https://progress-bar.dev/70/?title=Database&color=C9A14A" />
+  <img src="https://progress-bar.dev/80/?title=Problem%20Solving&color=C9A14A" />
 </p>
 
 ---
 
-## 📊 GitHub Pulse
+## ⚡ Coding Activity Ratio
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=C9A14A&icon_color=C9A14A&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=0D0D0D&ring=C9A14A&fire=C9A14A" />
+  <img src="https://progress-bar.dev/90/?title=Coding&color=C9A14A" />
+  <img src="https://progress-bar.dev/80/?title=Debugging&color=C9A14A" />
+  <img src="https://progress-bar.dev/65/?title=Learning&color=C9A14A" />
 </p>
 
 ---
 
-## 📈 Contribution Flow
+## ⏱️ Live Coding Stats (WakaTime)
+
+<!-- Replace YOUR_USERNAME -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=C9A14A" />
+</p>
+
+---
+
+## 📅 Weekly Coding Breakdown
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=0D0D0D&ring=C9A14A&fire=C9A14A" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=C9A14A&icon_color=C9A14A" />
+</p>
+
+---
+
+## 📊 Language Usage %
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqsama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=C9A14A" />
+</p>
+
+---
+
+## 📡 Detailed Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musfiqsama&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqsama&theme=react-dark&hide_border=true&color=C9A14A&line=C9A14A&point=FFFFFF" />
@@ -90,7 +93,7 @@
 
 ---
 
-## 🐍 Signature Snake
+## 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
@@ -115,7 +118,7 @@
 ---
 
 <p align="center">
-  <b>⚡ Build → Improve → Repeat ⚡</b>
+  <b>⚡ Code. Analyze. Improve. Repeat ⚡</b>
 </p>
 
 <p align="center">
