@@ -5,7 +5,7 @@
 <h1 align="center">⚡ Building Things That Feel Real ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=I+build+products%2C+not+just+projects;Clean+UI+%2B+Performance+obsessed;Turning+ideas+into+real+systems;Future+System+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=I+build+products%2C+not+just+projects;Clean+UI+%2B+Performance+obsessed;Turning+ideas+into+real+systems" />
 </p>
 
 <p align="center">
@@ -15,128 +15,57 @@
   <img src="https://img.shields.io/github/stars/musfiqsama?label=Stars&style=flat&color=C9A14A" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A14A&height=2" />
-</p>
+---
+
+## 😄 Dev Quote
+
+> “99% debugging, 1% coding — perfectly balanced.”
+
+---
 
 ## 🧠 Who Am I
 
 ```diff
 + I don’t just write code
-+ I design systems, build products, and refine experiences
++ I build things people can actually use
 ```
 
-- 🚀 Real-world focused developer  
-- 🎯 Product-first mindset  
-- ⚙️ Performance + UX obsessed  
-- 🧠 Learning scalability & architecture  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A14A&height=2" />
-</p>
-
-## 🚀 Projects That Matter
-
-### 🧠 GitScope
-> Understand developers like a recruiter
-
-- Analyze GitHub profiles  
-- Score developer quality  
-- Break down repository health  
-
-🔗 https://musfiqsama.github.io/gitscope/  
-💻 https://github.com/musfiqsama/gitscope  
+- 🚀 Real-world focused  
+- 🎯 Product mindset  
+- ⚙️ Clean UI + performance  
+- 🧠 Learning system design  
 
 ---
 
-### 🎮 Echo Loop
-> A time-based interactive game
+## 🧠 Dev Status
 
-- Loop-based gameplay  
-- Canvas rendering  
-- Interactive logic  
-
-💻 https://github.com/musfiqsama/echo-loop  
+🟢 Coding  
+🟡 Debugging  
+🔴 Questioning life decisions  
 
 ---
 
-### 🌐 Portfolio
-> Clean. Minimal. Intentional.
+## ⚡ Quick Facts
 
-🔗 https://musfiqsama.netlify.app/
+- Lines of code written: too many  
+- Bugs fixed: depends  
+- Bugs created: also depends  
+- Coffee consumed: ∞  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A14A&height=2" />
-</p>
+---
 
-## 📌 Featured Repo Cards
+## 💭 Thinking About
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musfiqsama&repo=gitscope&theme=tokyonight&hide_border=true&title_color=C9A14A&icon_color=C9A14A&bg_color=000000" />
-</p>
+- System design & scalability  
+- Cleaner backend logic  
+- Better UI performance  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musfiqsama&repo=echo-loop&theme=tokyonight&hide_border=true&title_color=C9A14A&icon_color=C9A14A&bg_color=000000" />
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A14A&height=2" />
-</p>
-
-## 🛠️ Tech Universe
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,c&perline=6" />
-</p>
-
----
-
-## 🛰️ Tech Radar
-
-```txt
-🟢 Comfortable  : HTML, CSS, JavaScript, React, Git, GitHub
-🟡 Exploring    : Node.js, Express, MongoDB, REST APIs
-🔴 Learning     : System Design, Scalability, Backend Architecture
-```
-
----
-
-## 🧠 Philosophy
-
-- Simplicity beats unnecessary complexity  
-- Performance is part of user experience  
-- Clean UI makes products feel trustworthy  
-- Real learning happens when ideas become products  
-- Build → Test → Improve → Ship  
-
----
-
-## ⚡ Currently Building
-
-- 🚀 More real-world full-stack applications  
-- 🧠 Stronger problem-solving habits  
-- 🏗️ System design fundamentals  
-- ⚙️ Cleaner backend architecture  
-- ✨ More polished product experiences  
-
----
-
-## 🤝 Open To
-
-- Internship opportunities  
-- Collaboration on real-world projects  
-- Freelance web development work  
-- Open-source contribution  
-- Building useful products with serious people  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A14A&height=2" />
-</p>
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musfiqsama&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -149,10 +78,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=000000&ring=C9A14A&fire=C9A14A" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqsama&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=C9A14A&text_color=ffffff" />
 </p>
 
 ---
@@ -173,25 +98,15 @@
 
 ---
 
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-## 🐍 Snake Eating Contributions
+## 🐍 Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9A14A&height=2" />
-</p>
+---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
   <a href="https://musfiqsama.netlify.app/">
@@ -208,7 +123,7 @@
 ---
 
 <p align="center">
-  <b>⚡ Design → Build → Refine → Repeat ⚡</b>
+  <b>⚡ Build → Break → Fix → Repeat ⚡</b>
 </p>
 
 <p align="center">
