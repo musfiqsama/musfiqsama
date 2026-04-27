@@ -1,41 +1,41 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C9A14A,100:000000&height=260&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C9A14A,100:000000&height=260&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Building products that feel real.</h1>
+<h1 align="center">⚡ Building Things That Feel Real ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&pause=1000&color=C9A14A&center=true&vCenter=true&width=800&lines=I+don’t+just+code+projects;I+build+things+people+can+use;Focused+on+clean+UI%2C+performance+%26+impact;Future+system+designer+in+progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=I+build+products%2C+not+just+projects;Clean+UI+%2B+Performance+obsessed;Turning+ideas+into+real+systems;Future+System+Designer" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Profile%20Views&color=C9A14A&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Visitors&color=C9A14A&style=flat" />
   <img src="https://img.shields.io/github/followers/musfiqsama?label=Followers&style=flat&color=C9A14A" />
   <img src="https://img.shields.io/github/stars/musfiqsama?label=Stars&style=flat&color=C9A14A" />
 </p>
 
 ---
 
-## ⚡ Who Am I
+## 🧠 Who Am I
 
-I’m not here to just write code.  
-I build **products that solve problems, look clean, and perform well.**
+```diff
++ I don’t just write code
++ I design systems, build products, and refine experiences
+```
 
-- 💡 Think like a **builder**, not just a developer  
-- 🎯 Focus on **real-world usability**  
-- ⚙️ Obsessed with **performance & clean UI**  
-- 🧠 Learning how systems scale  
+- 🚀 Real-world focused developer  
+- 🎯 Product-first mindset  
+- ⚙️ Performance + UX obsessed  
+- 🧠 Learning scalability & architecture  
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Projects That Matter
 
 ### 🧠 GitScope
-> A tool that looks at developers the way recruiters do
-
-- Analyze GitHub profiles  
-- Score developer quality  
-- Break down repository health  
+> Understand developers like a recruiter
 
 🔗 https://musfiqsama.github.io/gitscope/  
 💻 https://github.com/musfiqsama/gitscope  
@@ -43,24 +43,18 @@ I build **products that solve problems, look clean, and perform well.**
 ---
 
 ### 🎮 Echo Loop
-> A game where time is the core mechanic
-
-- Loop-based gameplay  
-- Canvas rendering  
-- Interactive logic  
+> A time-based interactive game
 
 💻 https://github.com/musfiqsama/echo-loop  
 
 ---
 
 ### 🌐 Portfolio
-> Clean. Minimal. Intentional.
-
 🔗 https://musfiqsama.netlify.app/
 
 ---
 
-## 🧠 Skill Stack
+## 🛠️ Tech Universe
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,c&perline=6" />
@@ -68,28 +62,27 @@ I build **products that solve problems, look clean, and perform well.**
 
 ---
 
-## 🧩 How I Work
-
-- I build → then refine → then optimize  
-- I care about **how it feels**, not just how it works  
-- I prefer **shipping real things** over tutorials  
-- I learn by building, not watching  
-
----
-
-## 📊 GitHub
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&title_color=C9A14A&icon_color=C9A14A&text_color=ffffff&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&ring=C9A14A&fire=C9A14A&background=000000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=musfiqsama&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📈 Activity
+## 📊 Dev Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=C9A14A&icon_color=C9A14A" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=000000&ring=C9A14A&fire=C9A14A" />
+</p>
+
+---
+
+## 📈 Contribution Flow
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqsama&theme=tokyo-night&hide_border=true&color=C9A14A&line=C9A14A&point=FFFFFF" />
@@ -97,7 +90,15 @@ I build **products that solve problems, look clean, and perform well.**
 
 ---
 
-## 🐍 Snake
+## 💬 Dev Quote (Dynamic)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🐍 Snake Eating Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
@@ -105,7 +106,7 @@ I build **products that solve problems, look clean, and perform well.**
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://musfiqsama.netlify.app/">
@@ -122,7 +123,7 @@ I build **products that solve problems, look clean, and perform well.**
 ---
 
 <p align="center">
-  <b>Design. Build. Ship.</b>
+  <b>⚡ Design → Build → Refine → Repeat ⚡</b>
 </p>
 
 <p align="center">
