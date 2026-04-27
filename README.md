@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C9A14A,100:000000&height=260&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:C9A14A,100:0D0D0D&height=260&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">⚡ Building Things That Feel Real ⚡</h1>
+<h1 align="center">⚡ Building Clean, Real-World Software ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=I+build+products%2C+not+just+projects;Clean+UI+%2B+Performance+obsessed;Turning+ideas+into+real+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=Products+over+projects;Clean+UI+%2B+Performance+focused;Thinking+in+systems+and+scale" />
 </p>
 
 <p align="center">
@@ -17,23 +17,23 @@
 
 ---
 
-## 😄 Dev Quote
+## 😄 Dev Reality
 
-> “99% debugging, 1% coding — perfectly balanced.”
+> “It worked yesterday. I didn’t touch anything.”
 
 ---
 
-## 🧠 Who Am I
+## 🧠 Identity
 
 ```diff
-+ I don’t just write code
-+ I build things people can actually use
++ Build things that feel smooth
++ Ship things that actually work
 ```
 
-- 🚀 Real-world focused  
-- 🎯 Product mindset  
-- ⚙️ Clean UI + performance  
-- 🧠 Learning system design  
+- ⚡ Product-focused  
+- 🧠 System-thinking mindset  
+- 🎯 Clean UI + performance  
+- 🚀 Constant improvement  
 
 ---
 
@@ -41,28 +41,28 @@
 
 🟢 Coding  
 🟡 Debugging  
-🔴 Questioning life decisions  
+🔴 Rethinking life choices  
 
 ---
 
-## ⚡ Quick Facts
+## ⚡ Quick Snapshot
 
-- Lines of code written: too many  
-- Bugs fixed: depends  
-- Bugs created: also depends  
-- Coffee consumed: ∞  
+- Code written: a lot  
+- Bugs fixed: some  
+- Bugs created: also some  
+- Coffee level: critical  
 
 ---
 
-## 💭 Thinking About
+## 💭 Focus Right Now
 
-- System design & scalability  
+- Scaling applications  
 - Cleaner backend logic  
 - Better UI performance  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,c&perline=6" />
@@ -70,22 +70,14 @@
 
 ---
 
-## 📊 Dev Stats
+## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=C9A14A&icon_color=C9A14A&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=C9A14A&icon_color=C9A14A&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=000000&ring=C9A14A&fire=C9A14A" />
-</p>
-
----
-
-## 📡 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musfiqsama&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=0D0D0D&ring=C9A14A&fire=C9A14A" />
 </p>
 
 ---
@@ -98,7 +90,7 @@
 
 ---
 
-## 🐍 Snake
+## 🐍 Signature Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
@@ -116,16 +108,16 @@
     <img src="https://img.shields.io/badge/Email-C9A14A?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/musfiqsama">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ Build → Break → Fix → Repeat ⚡</b>
+  <b>⚡ Build → Improve → Repeat ⚡</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:C9A14A,100:000000&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:C9A14A,100:0D0D0D&height=120&section=footer" />
 </p>
