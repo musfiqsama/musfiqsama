@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:C9A14A,100:050505&height=270&section=header&text=Musfiqur%20Rahman%20Sama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">⚡ Developer Dashboard ⚡</h1>
+<h1 align="center">Developer Dashboard</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=27&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=Building+clean+real-world+software;Performance+%2B+UI+focused;Turning+ideas+into+systems;Code.+Debug.+Ship.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=900&color=C9A14A&center=true&vCenter=true&width=900&lines=Building+clean+real-world+software;Performance+and+UI+focused;Turning+ideas+into+systems" />
 </p>
 
 <p align="center">
@@ -15,56 +15,50 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:C9A14A,100:050505&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:C9A14A,100:050505&height=2" />
 </p>
 
 ---
 
-## 🔥 System Status
+## System Status
 
 ```diff
 + System online
 + Building useful things
-+ Debugging reality
-+ Shipping slowly but surely
++ Debugging in progress
++ Shipping gradually
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Initializing+developer...;%3E+Loading+features...;%3E+Fixing+bugs...;%3E+Deploying+confidence..." />
-</p>
+---
+
+## Dev Reality
+
+> Building things people can actually use.
 
 ---
 
-## 😄 Dev Reality
-
-> “Works on my machine 🤝 breaks everywhere else.”
-
----
-
-## ⚡ Skill Power
+## Skill Power
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-88%25-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-78%25-FFD600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-72%25-FF6D00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solving-82%25-00B0FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%20Thinking-76%25-C9A14A?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Dev Mode
+## Dev Mode
 
 <p align="center">
   <img src="https://img.shields.io/badge/Coding-90%25-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Debugging-90%25-00B0FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learning-85%25-C9A14A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Overthinking-100%25-FF1744?style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,c&perline=6" />
@@ -72,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Pulse
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=C9A14A&icon_color=C9A14A&text_color=ffffff" />
@@ -88,15 +82,11 @@
 
 ---
 
-## 📡 Activity Map
+## Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musfiqsama&theme=tokyonight" />
 </p>
-
----
-
-## 🌌 Contribution Galaxy
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqsama&theme=react-dark&hide_border=true&bg_color=050505&color=C9A14A&line=C9A14A&point=FFFFFF" />
@@ -104,7 +94,7 @@
 
 ---
 
-## 🐍 Snake
+## Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg" />
@@ -112,7 +102,7 @@
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://musfiqsama.netlify.app/">
@@ -129,11 +119,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=C9A14A&center=true&vCenter=true&width=700&lines=Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;Still+learning.+Still+shipping." />
-</p>
-
-<p align="center">
-
+  Build → Improve → Repeat
 </p>
 
 <p align="center">
