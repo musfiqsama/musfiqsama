@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=musfiqsama&label=Visitors&color=C9A14A&style=flat" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=musfiqsama" />
   <img src="https://img.shields.io/github/followers/musfiqsama?label=Followers&style=flat&color=C9A14A" />
   <img src="https://img.shields.io/github/stars/musfiqsama?label=Stars&style=flat&color=C9A14A" />
 </p>
@@ -45,24 +44,23 @@
 ## ⚡ Skill Power
 
 <p align="center">
-  <img src="https://progress-bar.dev/88/?title=Frontend&color=C9A14A" />
-  <img src="https://progress-bar.dev/78/?title=Backend&color=C9A14A" />
-  <img src="https://progress-bar.dev/72/?title=Database&color=C9A14A" />
-  <img src="https://progress-bar.dev/82/?title=Problem%20Solving&color=C9A14A" />
-  <img src="https://progress-bar.dev/76/?title=UI%20Thinking&color=C9A14A" />
+  <img src="https://img.shields.io/badge/Frontend-88%25-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-78%25-FFD600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-72%25-FF6D00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-82%25-00B0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Thinking-76%25-C9A14A?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧠 Dev Mode
 
-```txt
-Frontend        █████████████████░░░ 88%
-Backend         ███████████████░░░░░ 78%
-Database        ██████████████░░░░░░ 72%
-Debugging       ██████████████████░░ 90%
-Overthinking    ████████████████████ 100%
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding-90%25-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Debugging-90%25-00B0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-85%25-C9A14A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Overthinking-100%25-FF1744?style=for-the-badge" />
+</p>
 
 ---
 
@@ -135,7 +133,7 @@ Overthinking    ████████████████████ 100
 </p>
 
 <p align="center">
-  <b> Code → Debug → Improve </b>
+
 </p>
 
 <p align="center">
