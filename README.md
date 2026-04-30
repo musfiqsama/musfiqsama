@@ -110,52 +110,43 @@ Dev Reality          : Building things people can actually use
 
 <div align="center">
 
-### GitScope
-
-<img src="https://img.shields.io/badge/Status-Active-C9A14A?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/Type-GitHub%20Analyzer-FFFFFF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/Focus-Developer%20Insights-C9A14A?style=for-the-badge&labelColor=050505">
-
-<br/><br/>
-
-> GitHub profile analyzer focused on developer insights, profile quality, and repository health.
-
-<br/>
-
-[![Live](https://img.shields.io/badge/Live-Open%20Project-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.github.io/gitscope/)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505)](https://github.com/musfiqsama)
-
-<br/><br/>
-
 <table>
   <tr>
-    <td align="center"><b>Profile Analysis</b><br/>Understand developer profile quality</td>
-    <td align="center"><b>Repo Insights</b><br/>Review repository health and activity</td>
-    <td align="center"><b>Recruiter Focus</b><br/>Present useful developer signals</td>
+    <td width="33%" align="center">
+      <h3>GitScope</h3>
+      <p><b>GitHub Profile Analyzer</b></p>
+      <p>Analyze developer profiles, repository health, activity, and useful developer signals.</p>
+      <img src="https://img.shields.io/badge/Status-Active-C9A14A?style=for-the-badge&labelColor=050505">
+      <br/><br/>
+      <a href="https://musfiqsama.github.io/gitscope/">
+        <img src="https://img.shields.io/badge/Live_Project-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505">
+      </a>
+      <a href="https://github.com/musfiqsama">
+        <img src="https://img.shields.io/badge/View_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Echo Loop</h3>
+      <p><b>Interactive Game Project</b></p>
+      <p>Logic-based game focused on timing, interaction, and problem-solving through gameplay.</p>
+      <img src="https://img.shields.io/badge/Type-Game_Project-C9A14A?style=for-the-badge&labelColor=050505">
+      <br/><br/>
+      <a href="https://github.com/musfiqsama">
+        <img src="https://img.shields.io/badge/View_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505">
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <h3>Portfolio Website</h3>
+      <p><b>Personal Portfolio</b></p>
+      <p>Modern portfolio showcasing projects, skills, and developer journey with clean UI.</p>
+      <img src="https://img.shields.io/badge/Focus-Clean_UI-C9A14A?style=for-the-badge&labelColor=050505">
+      <br/><br/>
+      <a href="https://musfiqsama.netlify.app/">
+        <img src="https://img.shields.io/badge/Visit_Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505">
+      </a>
+    </td>
   </tr>
 </table>
-
-<br/>
-
-### Echo Loop
-
-<img src="https://img.shields.io/badge/Type-Game%20Project-C9A14A?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/Focus-Logic%20%26%20Interaction-FFFFFF?style=for-the-badge&labelColor=050505">
-
-<br/><br/>
-
-> Interactive game project focused on logic, timing, and user interaction.
-
-<br/>
-
-### Portfolio Website
-
-<img src="https://img.shields.io/badge/Type-Personal%20Portfolio-C9A14A?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/Focus-Clean%20UI-FFFFFF?style=for-the-badge&labelColor=050505">
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.netlify.app/)
 
 </div>
 
