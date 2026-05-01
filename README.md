@@ -267,7 +267,7 @@ Dev Reality          : Building things people can actually use
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-musfiqsama.netlify.app-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-musfiqsama.me-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-musfiqsama-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505)](https://github.com/musfiqsama)
 [![Email](https://img.shields.io/badge/Gmail-musfiqsama123%40gmail.com-C9A14A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505)](mailto:musfiqsama123@gmail.com)
 
