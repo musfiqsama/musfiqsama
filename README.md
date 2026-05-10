@@ -67,18 +67,6 @@ const MusfiqurRahmanSama = {
 
 ---
 
-# Featured Projects
-
-## GitScope
-GitHub profile analyzer for developer insights, repository activity, and code statistics.
-
-## Echo Loop
-Interactive logic-based game focused on timing and gameplay mechanics.
-
-## Portfolio Website
-Personal portfolio showcasing projects, skills, and development journey.
-
----
 
 # GitHub Stats
 
