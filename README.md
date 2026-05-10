@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
      MUSFIQUR RAHMAN SAMA — PREMIUM GITHUB README
-     Neon Glass Dark-Gold Theme
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -14,7 +13,9 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=musfiqsama&label=Profile+Views&color=C9A14A&style=for-the-badge)
+
 [![Followers](https://img.shields.io/github/followers/musfiqsama?label=Followers&style=for-the-badge&color=C9A14A&logo=github)](https://github.com/musfiqsama?tab=followers)
+
 [![Stars](https://img.shields.io/github/stars/musfiqsama?label=Total%20Stars&style=for-the-badge&color=FFFFFF&logo=github)](https://github.com/musfiqsama)
 
 <br/><br/>
@@ -23,15 +24,15 @@
   <tr>
     <td align="center" width="33%">
       <h3>Software Developer</h3>
-      <p>Building practical web apps and real-world products.</p>
+      <p>Building practical web applications and real-world products.</p>
     </td>
     <td align="center" width="33%">
       <h3>CSE Student</h3>
-      <p>Learning system design, backend logic, and scalable development.</p>
+      <p>Learning backend systems, scalable development, and software architecture.</p>
     </td>
     <td align="center" width="33%">
       <h3>Product Mindset</h3>
-      <p>Focused on clean UI, performance, and usable software.</p>
+      <p>Focused on clean UI, performance, and user-centered experiences.</p>
     </td>
   </tr>
 </table>
@@ -44,22 +45,42 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## whoami
+# whoami
 
 <div align="center">
 
 ```javascript
 const MusfiqurRahmanSama = {
-  name      : "Musfiqur Rahman Sama",
-  username  : "musfiqsama",
-  role      : "Full Stack Developer",
-  education : "CSE Student",
-  location  : "Bangladesh",
-  focus     : ["Web Development", "Clean UI", "Performance", "System Design"],
-  stack     : ["React", "Node.js", "Express", "MongoDB", "JavaScript"],
-  projects  : ["GitScope", "Echo Loop", "Portfolio Website"],
-  mindset   : "Building things people can actually use",
-  status    : "Learning · Building · Improving"
+  name: "Musfiqur Rahman Sama",
+  username: "musfiqsama",
+  role: "Full Stack Developer",
+  education: "CSE Student",
+  location: "Bangladesh",
+
+  focus: [
+    "Web Development",
+    "Clean UI",
+    "Performance",
+    "System Design"
+  ],
+
+  stack: [
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "JavaScript"
+  ],
+
+  projects: [
+    "GitScope",
+    "Echo Loop",
+    "Personal Portfolio"
+  ],
+
+  mindset: "Building products people can actually use",
+
+  status: "Learning · Building · Improving"
 };
 ```
 
@@ -67,15 +88,32 @@ const MusfiqurRahmanSama = {
 
 <br/>
 
-## Current Status
+# Current Status
 
 ```yaml
-Currently Building   : Real-world web applications
-Currently Learning   : System Design · Backend Optimization · Scalable Development
-Open To              : Collaboration · Internships · Freelance Projects
-Ask Me About         : React · Node.js · MongoDB · JavaScript · C/C++
-Goal                 : Build useful products with clean design and strong performance
-Dev Reality          : Building things people can actually use
+Currently Building:
+  - Real-world web applications
+  - Developer-focused tools
+
+Currently Learning:
+  - System Design
+  - Backend Optimization
+  - Scalable Development
+
+Open To:
+  - Collaboration
+  - Internships
+  - Freelance Opportunities
+
+Ask Me About:
+  - React
+  - Node.js
+  - MongoDB
+  - JavaScript
+  - C/C++
+
+Goal:
+  - Creating useful products with clean design and solid performance
 ```
 
 <br/>
@@ -84,20 +122,20 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Startup Sequence
+# Startup Sequence
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=500&color=C9A14A&center=true&vCenter=true&width=850&lines=%24+booting+developer+profile...;%24+loading+clean+UI+modules...;%24+checking+performance+systems...;%24+syncing+ideas+with+code...;%24+status%3A+ready+to+build)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=500&color=C9A14A&center=true&vCenter=true&width=850&lines=%24+booting+developer+profile...;%24+loading+UI+systems...;%24+checking+backend+services...;%24+syncing+ideas+with+code...;%24+status%3A+ready+to+build)](https://git.io/typing-svg)
 
 </div>
 
 ```diff
 + Profile initialized
-+ System online
-+ Building useful things
-+ Debugging in progress
-+ Shipping gradually
++ Systems online
++ Features loading
++ Performance optimized
++ Ready to build
 ```
 
 <br/>
@@ -106,45 +144,71 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Featured Work
+# Featured Work
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>GitScope</h3>
-      <p><b>GitHub Profile Analyzer</b></p>
-      <p>Analyze developer profiles, repository health, activity, and useful developer signals.</p>
-      <img src="https://img.shields.io/badge/Status-Active-C9A14A?style=for-the-badge&labelColor=050505">
-      <br/><br/>
-      <a href="https://musfiqsama.github.io/gitscope/">
-        <img src="https://img.shields.io/badge/Live_Project-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505">
-      </a>
-      <a href="https://github.com/musfiqsama">
-        <img src="https://img.shields.io/badge/View_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>Echo Loop</h3>
-      <p><b>Interactive Game Project</b></p>
-      <p>Logic-based game focused on timing, interaction, and problem-solving through gameplay.</p>
-      <img src="https://img.shields.io/badge/Type-Game_Project-C9A14A?style=for-the-badge&labelColor=050505">
-      <br/><br/>
-      <a href="https://github.com/musfiqsama">
-        <img src="https://img.shields.io/badge/View_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>Portfolio Website</h3>
-      <p><b>Personal Portfolio</b></p>
-      <p>Modern portfolio showcasing projects, skills, and developer journey with clean UI.</p>
-      <img src="https://img.shields.io/badge/Focus-Clean_UI-C9A14A?style=for-the-badge&labelColor=050505">
-      <br/><br/>
-      <a href="https://musfiqsama.netlify.app/">
-        <img src="https://img.shields.io/badge/Visit_Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505">
-      </a>
-    </td>
+
+<td width="33%" align="center">
+
+### GitScope
+
+**GitHub Profile Analyzer**
+
+Analyze developer profiles, repository activity, code health, and developer insights.
+
+<img src="https://img.shields.io/badge/Status-Active-C9A14A?style=for-the-badge&labelColor=050505">
+
+<br/><br/>
+
+<a href="https://musfiqsama.github.io/gitscope/">
+<img src="https://img.shields.io/badge/Live_Project-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505">
+</a>
+
+<a href="https://github.com/musfiqsama">
+<img src="https://img.shields.io/badge/View_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Echo Loop
+
+**Interactive Game Project**
+
+A logic-based game focused on timing, interaction, and problem-solving mechanics.
+
+<img src="https://img.shields.io/badge/Type-Game_Project-C9A14A?style=for-the-badge&labelColor=050505">
+
+<br/><br/>
+
+<a href="https://github.com/musfiqsama">
+<img src="https://img.shields.io/badge/View_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Portfolio Website
+
+**Personal Portfolio**
+
+Modern portfolio showcasing projects, skills, and development journey with a clean UI.
+
+<img src="https://img.shields.io/badge/Focus-Clean_UI-C9A14A?style=for-the-badge&labelColor=050505">
+
+<br/><br/>
+
+<a href="https://musfiqsama.netlify.app/">
+<img src="https://img.shields.io/badge/Visit_Portfolio-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505">
+</a>
+
+</td>
+
   </tr>
 </table>
 
@@ -156,7 +220,7 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Tech Arsenal
+# Tech Arsenal
 
 <div align="center">
 
@@ -178,13 +242,17 @@ Dev Reality          : Building things people can actually use
 
 <div align="center">
 
-**Skill Focus**
+# Core Strengths
 
-![Frontend](https://img.shields.io/badge/Frontend-88%25-00C853?style=for-the-badge&labelColor=050505)
-![Backend](https://img.shields.io/badge/Backend-78%25-FFD600?style=for-the-badge&labelColor=050505)
-![Database](https://img.shields.io/badge/Database-72%25-FF6D00?style=for-the-badge&labelColor=050505)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-82%25-00B0FF?style=for-the-badge&labelColor=050505)
-![UI Thinking](https://img.shields.io/badge/UI%20Thinking-76%25-C9A14A?style=for-the-badge&labelColor=050505)
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-C9A14A?style=for-the-badge&labelColor=050505)
+
+![Backend Development](https://img.shields.io/badge/Backend_Development-FFFFFF?style=for-the-badge&labelColor=050505)
+
+![Database Management](https://img.shields.io/badge/Database_Management-C9A14A?style=for-the-badge&labelColor=050505)
+
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFFFFF?style=for-the-badge&labelColor=050505)
+
+![UI/UX Thinking](https://img.shields.io/badge/UI%2FUX_Thinking-C9A14A?style=for-the-badge&labelColor=050505)
 
 </div>
 
@@ -192,11 +260,15 @@ Dev Reality          : Building things people can actually use
 
 <div align="center">
 
-**Dev Mode**
+# Current Focus
 
-![Coding](https://img.shields.io/badge/Coding-90%25-00C853?style=for-the-badge&labelColor=050505)
-![Debugging](https://img.shields.io/badge/Debugging-90%25-00B0FF?style=for-the-badge&labelColor=050505)
-![Learning](https://img.shields.io/badge/Learning-85%25-C9A14A?style=for-the-badge&labelColor=050505)
+```yaml
+- Clean UI Development
+- Backend Architecture
+- Performance Optimization
+- Building Real-World Products
+- Continuous Learning
+```
 
 </div>
 
@@ -206,11 +278,12 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=050505&title_color=C9A14A&icon_color=C9A14A&text_color=FFFFFF&ring_color=C9A14A"/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqsama&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=C9A14A&text_color=FFFFFF"/>
 
 <br/><br/>
@@ -225,7 +298,7 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Achievements & Summary
+# Achievements & Summary
 
 <div align="center">
 
@@ -238,7 +311,9 @@ Dev Reality          : Building things people can actually use
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musfiqsama&theme=tokyonight" width="32%"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musfiqsama&theme=tokyonight" width="32%"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=musfiqsama&theme=tokyonight" width="32%"/>
 
 </div>
@@ -249,7 +324,7 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -263,13 +338,15 @@ Dev Reality          : Building things people can actually use
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Connect
+# Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-musfiqsama.me-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-musfiqsama.netlify.app-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.netlify.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-musfiqsama-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505)](https://github.com/musfiqsama)
-[![Email](https://img.shields.io/badge/Gmail-musfiqsama123%40gmail.com-C9A14A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505)](mailto:musfiqsama123@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-C9A14A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505)](mailto:musfiqsama123@gmail.com)
 
 <br/><br/>
 
@@ -279,7 +356,7 @@ open_to:
   - Freelance Web Development
   - Open Source Collaboration
   - Real-World Product Ideas
-  - Learning & Building With Serious People
+  - Learning With Serious Builders
 ```
 
 </div>
@@ -290,14 +367,16 @@ open_to:
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A14A,50:FFFFFF,100:C9A14A"/>
 </p>
 
-## Snake
+# Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg">
+
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/musfiqsama/musfiqsama/output/snake-dark.svg">
 </picture>
 
 </div>
@@ -306,7 +385,7 @@ open_to:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C9A14A&center=true&vCenter=true&width=700&lines=Build+%E2%86%92+Improve+%E2%86%92+Repeat;Still+learning.+Still+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C9A14A&center=true&vCenter=true&width=700&lines=Build+%E2%86%92+Improve+%E2%86%92+Repeat;Still+learning.+Still+shipping.](https://git.io/typing-svg)
 
 </div>
 
