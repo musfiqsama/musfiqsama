@@ -65,22 +65,7 @@ const MusfiqurRahmanSama = {
 
 </div>
 
----
 
-
-# GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=musfiqsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=C9A14A&icon_color=C9A14A&text_color=FFFFFF"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqsama&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=C9A14A&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=musfiqsama&theme=tokyonight&hide_border=true&background=050505&stroke=C9A14A&ring=C9A14A&fire=FFFFFF&currStreakLabel=C9A14A"/>
-
-</div>
 
 ---
 
