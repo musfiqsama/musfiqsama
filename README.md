@@ -91,9 +91,3 @@ const MusfiqurRahmanSama = {
 
 </div>
 
-//capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,50:C9A14A,100:050505&section=footer"/>
-
-</div>
-
-
----
