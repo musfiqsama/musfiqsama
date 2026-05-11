@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-musfiqsama-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=050505)](https://github.com/musfiqsama)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A14A?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=050505)](https://musfiqsama.me/)
 
 </div>
 
